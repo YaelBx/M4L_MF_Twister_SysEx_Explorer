@@ -21,4 +21,5 @@ This device goal is to show you the SysEx packets needed if you want to create y
 
 ## Setup
 Drag your device into a MIDI track, set your MF Twister as MIDI out. If well configured, pressing "Save & reset" should reset your device.
+
 When sending a parameter, the device goes into a configuration mode (no color, no response) until the device is reset or unplugged.
